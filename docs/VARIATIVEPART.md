@@ -24,7 +24,7 @@
 ## Код для сайта
 
 Код был написан прямо на сервере в nginx на языке HTML. Была реализована страница сайта ресторана с меню, описанием и возможностью онлайн бронирования столика.
-Код находится в папке **src** в файле [index.html](Practice-2025/blob/main/src/index.html)
+Код находится в папке **src** в файле [index.html](https://github.com/Graveyard-of-Anarchy/Practice-2025/blob/main/src/index.html)
 
 ## Результат 
 
