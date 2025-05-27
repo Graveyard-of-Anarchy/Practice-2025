@@ -27,4 +27,4 @@
 
 ## Результат 
 
-Сайт доступен по (ссылке)[https://dakkathroughthesnow.ru/]
+Сайт доступен по [ссылке](https://dakkathroughthesnow.ru/)
