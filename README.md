@@ -12,6 +12,8 @@
 
 Задание размещено в папке **task** в файле [README.md](task/README.md).
 
+Ссылка на [видеозащиту](https://drive.google.com/file/d/1GW4_x24g3ceBMzEecdsnC3YVIsO8IxWx/view?usp=sharing)
+
 ## Вариативная часть задания
 
 Тема вариативной части задания - создание сайта на виртуальном сервере с помощью nginx. Документация в папке **docs** в файле [VARIATIVEPART.md](docs/VARIATIVEPART.md).
@@ -29,3 +31,4 @@
 ## Период проведения
 
 С 03 февраля 2025 г. по 24 мая 2025 г.
+
